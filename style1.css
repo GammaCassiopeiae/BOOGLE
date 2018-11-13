@@ -1,0 +1,40 @@
+div {
+  background-color:blue;
+  border:5px solid red;
+  color:white;
+  color:red;
+
+}
+
+body {
+    background-color: #8B0000;
+    border: 10px solid Black;
+    text-align: left;
+}
+p {
+    color:black;
+    background-color:red;
+    border: 5px solid black;
+    font-size:20px;
+}
+p:hover {
+    border:5px solid black;
+    color:black;
+    background-color:orange;
+    text-align: center;
+}
+h1 {
+    text-shadow: 1px 1px;
+    border-style: dotted;
+    border-width: thick;
+}
+h2:hover {
+    text-align:center;
+    background-color:blue;
+    color:yellow;
+    border:4px solid black;
+
+}
+#nazaj {
+    background-color:red;
+}
